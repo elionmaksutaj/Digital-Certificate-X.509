@@ -21,7 +21,7 @@ Ky projekt implementon një sistem komunikimi TCP klient-server ku të dhënat e
 
 #### Nisja Klientit
 1.Ekzekutoni klientin:
-- node client.js  
+- node client.js 
 2.Ndiqni udhëzimet për të futur mesazhin tuaj 
 
 
