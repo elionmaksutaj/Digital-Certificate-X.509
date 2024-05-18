@@ -15,11 +15,11 @@ Ky projekt implementon një sistem komunikimi TCP klient-server ku të dhënat e
 
 ## Përdorimi
 
-Nisja Serverit
+#### Nisja Serverit
 1.Ekzekutoni serverin:
 - node server.js
 
-Nisja Klientit
+#### Nisja Klientit
 1.Ekzekutoni klientin:
 - node client.js
 2.Ndiqni udhëzimet për të futur mesazhin tuaj
