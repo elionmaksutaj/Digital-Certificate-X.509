@@ -21,8 +21,9 @@ Ky projekt implementon një sistem komunikimi TCP klient-server ku të dhënat e
 
 #### Nisja Klientit
 1.Ekzekutoni klientin:
-- node client.js
-2.Ndiqni udhëzimet për të futur mesazhin tuaj
+- node client.js  
+2.Ndiqni udhëzimet për të futur mesazhin tuaj 
+
 
 ## Skedarët
 
@@ -31,7 +32,8 @@ Ky projekt implementon një sistem komunikimi TCP klient-server ku të dhënat e
 - utils.js:Funksionet ndihmëse për enkriptim, dekriptim, nënshkrim dhe verifikim të mesazheve.
 
 ## Grupi punues: 
-Elisa Gjurkaj,
-Elion Maksutaj,
-Elisë Gashi,
-Elisa Berisha,
+Elisa Gjurkaj  
+Elion Maksutaj  
+Elisë Gashi  
+Elisa Berisha 
+
